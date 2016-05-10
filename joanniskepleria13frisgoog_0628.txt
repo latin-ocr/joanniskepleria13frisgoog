@@ -1,0 +1,69 @@
+Sternumenta Dol'rl Austriaci. · 615
+
+Vel quod idom ιιι, numerum quadrati mqjuris multiplica' ιιι diametrum nri-
+unrem ιι ιιι, ιι summam quadratorum ad differentiam diametrorum trunci, sic
+ιιιιιιιιι ιιι quartum, qui erit quadratum CG ³⁶) . . ¹
+,, corollarium 111. Si quadratum AG ad quadratum AC est ut 1 ιιι 2,
+DV est dqurum medietatum arithmeticarum inter TC, AV sunjon ιιιιιι praxis
+brevior:
+
+Diamet-ri· 19. 29 2ι. 22.
+, l ⁶
+Ι ¹ Ιἴξιν9ύ9ἶιιι-ιιιιιιιιιιιι GC.
+- Corollarium IV. · Siout se lrabet uasis minor trunci ad basin cylindri,
+
+habet diameter minoris basis ιιι ιιιιιιιοιιιιιι DV
+
+, Theorema VIII.-
+
+Ia ιιιιιιιιιο et ιιιιιιο contro ιιιιιιιαιιιι ιιι ιιιιιιιιιιιιιι propert ιο coraposi-
+ιιι ea proportione diametrorum ιι basibus, ιιιιιινιῗ epatica? troam, et
+
+atraque ιιιιιιιιι, et ex prowm, perpendicula od ιιιιιιι ιιιιιιι
+· ιιιιιιι
+
+. ln 'schemate 24. sint figurae conjugatae CGAXet GTAV‚1nqui·
+bus diametri baseon, cylindri GG, ΧΑ, trunci minor GT ‚major VA,t sit.-
+que perpendiculum trunci ΤΒ, latus acclive TA. Dico proportiAnem
+altitudinum cylindri GA adt trunci ,ΤΒ componi ex proportione GC ad
+GTetex proportione AT ad ΤΒ. Theoremat ιιι ιιιιιιιι facilis est lde·
+monstratio, nec minus tamen separatimt fuit tradenda, ob corollaria et
+
+analogiam notabilem. Gum enim sit tGG ad GA sicut GT ad TA,
+permuta atim igitur erit GG ad GTt ut GA ad AT. sed proportio GA'
+
+ad ΤΒ composita est ex proportione GA ad ATt et ex proportione AT
+ΤΒ. ergoetiamexGGadGT‚ et t.exATadTR
+
+Corollarium et praxis quaerendae altitudinis. Datis CT ιι VA
+per praemissam, datur etiam quadratum ipsius CG; data siero proportione hujus
+quadrati CG ad quadratum GA, datur ctiam quadratum 'GA et quadratum TA
+Sed ιι differentia ipsarum CT, VA nota est, sc. BAze ιιιιιιιιιιιιιιιιι TA majus
+est quadrato ΤΒ parte quarta quadrati BA ιιι omni conjugatione. Anguli enim
+ιιι Ὁ ιι Τ aequales sunt, ιι CT, VB aequales er hypothesi, atque etiarn paralle-
+lae· connexis igitur B, Τ· erit BT aequalis ipsi .;CV sod haec ιιι aequalis ipsi
+TA ex hypothesi, ergo BTA isosceles est, cqjus ΤΒ pcrpendiculum: itaque BR
+est aequalis ipsi RA, eoque quadratum BA quadruplum' ipsius ΒΑ. Ablata tigitur
+parte quarta quadrati t1BA a quadrato TA, restat quadratum ΤΒ altitudinis trunci,
+quod comparatum curn quadrato GA constituit quaesitam proportionem.
+
+Exempla.
+
+Sit TC 19, AV 22. Quodsi quadratum GG ,fuerit ad GA duplum, erit
+quadratum GC ut prius 399 Erit' igit ur quadratum GA 399 ιιιιιιιιιι vel 798 qua·
+drantes proinde ιιιιιι quadratum de 19 sit 361, erit etiam TA 361 semisses ιιι
+722 quadrantes Denique eum differentia GT et VA, so 19 et 22 sit3, qua-
+dratum9, pars quartat> quadrantes: aufer hos a 722, restant 713 quadrantes
+pro quadrato ΤΒ. lta constituitur proportio quadrati GA ad quadratum ΤΒ,
+uae 793 ad 713. ’
+
+q Sit ve'ro ulia conjugatio, quadrata sc. AG, GC aequalia, et sic etiam qua-
+drata AT, TC ιι maneat CT 19, VA 22. Ειιι quadra ιιιιι TA 1444 quadrantes,
+eoque quadrat TR 1435 quadrantes.. Et proportio quadrati GA ud quadra·
+tum ΤΒ quael 196 ad 1435, vel' m minimis quae 228 ad 205. ¹
+Aliud exemplum: ιιι TC 19, AV 20, seu, quod idem est, 57 ιι 69, ιιι
+
+communicent curn ternario propter usus secuturas Deinde sit quadratum GC ad ,
+
+ 
+

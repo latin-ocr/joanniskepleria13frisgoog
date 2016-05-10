@@ -1,0 +1,56 @@
+stereometris Archimedes 557
+
+minores sunt qnam circumferentia circuli, et duodecim lineae DF vel
+FB suut majores quam circumferentia.
+
+2 Est autem· DB 'latus sexanguli regularis aequale ipsi AB semidia-
+metro. Sex-igitur semidiametri AB, hoc est tres diametri CB vel
+(diametro in 7 aequalia divisa) 21 septimae sunt breviores circumferentia.
+
+Vicissim cruu DG, GR sint aequales,¹ erit (ΞΒ dimidium ipsius AB.
+Quadratum rerd AB aequale θεῖ junctis AG, (ΞΒ quadratis θῖ θεῖ
+qnaslruplum quadrati GB, ergo AG est triplum quadrati GB. Pro·
+portio igitur quadratorum AB et AG est sesquitertia linearum, igitur
+AB et AG proportio est semi-sesquitertia, scilicet ea, quae numerorum
+100000 θῖ86603. Ut reno est AG ad AB, sic est GB ad BF, ergo
+etiam inter GB et BF est proportio semi-sesquitertia, ut, quia GB θεῖ
+dimidium ipsius AB, scilicet 50000‚ BF talium particularum, habeat
+57737 proxime. Duodeoies igitur sumtus uumerus iste major erit quam
+circumferentia circuli. Colligitur numerus 477974, qualium diameter
+habet 200000. lit qualium diameter habet 'fstalium suut in BF duo·
+decies sumta 24, minus una decima. Major igitur θεῖ hic numerus
+ipsa 'circumferentis3 minorantem eadem erat numerus 21. Εῖ patet
+ad oculum, arcum BE propiorem esse ipsi BG, quam BF lineae. cir·
+cumferentia igitur propior θεῖ numero 21, quam numero 24 minus
+una decima. Ponitur igitur, ab 21 recessisse per 1; ah altero vero per'2
+minue uua decima, nt sit nimirum 22. Haec autem longe accuratius
+demonstrat 'Archimedes in liguris multilatera, ut sunt figurae 12,24,
+48 laterum: ⁴ubietiam apparet, paulum quid deesse circumferentiae,
+
+quo minus sit 22· Adrianus Romanus eadem methodo demonstrarit, · ,
+
+si diameter circuli secetur in partes 20000000000000000, tunc talium
+partium 62831853071795862 fere esee iu circumferentia ).
+'Episagma Ex trihus lineis sectionum coniectum, quae parabole, hyper·
+bole. ellipsis dicuntur, ellipsis est circuli aemula, et demonstrari in comment. de
+motibus Martis (Vol. 111. p. 401), longitudinem ellipticae lineae· sese habere ad
+
+medium arithmeticum inter duas ejus- diametros,l quae axis rectus et transversus '
+
+dicuntur, similiter ut 22 ad 7 fere.
+
+Theorema II.
+
+circuli arec, od urcem quadratam diametri conparato, rationem hodct
+· eam' quom 11 od 14 fere.
+
+¹ Archimedes utitur demonstratione 'indirecta quae ad impossihile
+ducit: de qua multi multa. Mihi sensns hic· esse videtur Circuli BG
+
+‘NK
+
+circnmferentia partes hahet totidem, quot puncta, puta infinitas, quarum
+quaelibet consideratur ut basis alicujus trianguli aequiorum, cruribus
+
+ 
+

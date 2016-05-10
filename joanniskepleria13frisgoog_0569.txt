@@ -1,0 +1,57 @@
+550 Prima Pars.
+
+‘ Cum igitur dolia vinaria circulo‚‘ cono et cylindro, figuris regule ι
+qubus, participent, apta sunt hactenus ad geometricas dimensiones, a
+quarum principia operae pretium est in vestibulo hujus speculationis ξ
+collocare, ut illa ab Archimede sunt investigata, quantum quidem hujus ¹
+ad oblectationem animi geometriam amantis sufficiet: absolutae eruin
+. et omnibusnumeris perfectae demonstrationes petendae suut ex ipsis
+libellis Archimedeis, siquis a spinosa lectione eorum nou abhorruerit.
+Liceattunen in quibusdam locis, quae nou attigit Arclrimedea
+nffiruihil morari, utiuvenia'nt et doctiores, quibus juventur seseque ³
+o ectent.
+
+—-———
+
+’. ‘ lrrum nans.
+curvorum Regulamum stereometria.
+Theorema Ι. 0 Ι
+
+Principio requirebatur 'comite proportionis circumferentiasud 2
+diametrum. Et docuit'Arcbimedes: ·
+
+Rationem circumferentiae cd diametrum csse proxime curre, qaae est
+eramala· 22 ad 7. '
+
+’ · Ad hoc demonstrandum usus est figuris circulo inscriptis et mcum· κ
+
+scriptis3 quae cum sint infinitae, nos facilitatis causa utemur sexanprla κ
+Sit enim in circqu CBD regulare sexangulum
+cujus argentei), B, latus DB, et tangant cir·
+culum duae rectae in D et B coeantque ad conr
+munem sectionem F:- et centrum Α eum F ωε·
+, nectatur linea ΑΕ, quae secet rectam DB int,
+arcum ΕΒ in Ε. Cum igitur DGB sit recta,il
+est ductus aD inB brevissimus, DEB vero arcus
+,- id est ductus a D in B non brevissimus, langiu
+η = igitur est DEB, quam DGB. Ecoutra cum recta
+BF tangat circulum, omues igitur partes arcura ΕΒ sunt intra FB
+uersus, GB: quodsi ΕΒ esset recta, omnino brevior esset, quam FB.
+Nam ΑΕΒ, F ΕΒ auguli sunt aeqmii'qiem recto, cum EF B sitacutus,
+ergo ΕΒ subteneo minori angulo B minor est quam ΕΒ, quippe
+quae majori est subtensa. Licet antem argumentari de ΕΒ ut de recu,
+quia ris ,demonstrationis secat circulum in arcus minimos, qui sequi·
+parantur rectis. Quanquam interea, quaevcommuni sensu sunt uota
+recipi potest,¹ arcum ΒΕΒ, intra triangulum·DBF-‚ minorem esse lmen
+DF, ΕΒ, quippe qui cum flectatur versus angulum ΒΕΒ, nullam umen
+particulam habet extra lineas ΒΕ, ΕΒ; comprehendens autern must
+communi. maJus est comprehenso. Secus heberet, si arcus DEB caet
+
+linea flexuosa et inordinata. ,
+
+(lum igitur DB 'sit latus inscripti sexanguli et ΒΕ, ΕΒ sint dua
+medietatescircumscripti sexanguli‚ arcus DBB erit circuli pars serbi
+meq'or uero. erat quam DB, numquamne, FB, sex igitur bueus BB
+
+ 
+

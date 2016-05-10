@@ -1,0 +1,63 @@
+· stereometria Delii Austriacl. 617 .
+
+eorporis ιιιιιιι ιιι cylindri conjugati corpus. Nem per XVII primae
+partis ast ut rectangulum CT, VA, juncta tertia parte quadrati de
+BA, 'ad quadratum CT, sic corpus trunci CTAV ad corpus cylindri
+eeqirealti et inscripti, super basi eadem CT. Ut tvero quadratum GT
+ad quadratum GG, ita corpus cylindri super CT basi ad corpus cylin-
+dri aequealti super basi OG, per dicta ad ΙΙΙ. ιι XVI. partis primae. ·
+Ut ergo rectiangulum 0¹,r VA, juncta tertia parte quadrati de BA, ad
+
+quadratum CG, hoc est per Vl. praemissam ad mctangulum CT, vo
+aequale quadrato GG, ita corpus trunci, basibus GT, AV ad corpus
+cylindri oequealti Si ergo trundus ἸιιΙιιιιι altitudinem cylindri con·
+jugati, sc. GA, valeret haec Jam dicta proportio sola Jsm raro ut
+GA, altitudo cylindri conjugati, tad m, altitudinem minorem, sic cylin-
+der conjugatus ad cylindrumt1 alti tudine trunci, basibui iisdem, per
+tn. XVII. partis primae, st nicetium truncus alti tudine GA ad trun-
+cum conjugatum altitudine TR. Haec igitur est proportionis pars
+
+altera. ³⁷)
+
+corollarium 1 et praxis. Data proportione ιιιιιιι ad cylindrum aeque·
+altum, basi CG, per praemissas, data etiarn proportione quadrati GA, altitudinis
+cylindri, ad 'quadratum TR, altitudinis trunci conjugati, quia quadratorum prov
+portionalium radices etiam proportionales sunt, sed proportionis dissidiae: quadra· ’
+bimus igitur uulnerum, quo effertur corpus trunci, et faciemus, ut quadratum GA
+ad quddratum Til, sio quadratum numeri trunci, altitudine GA, ad quadratum
+justi trunci, hoc est cpnjug'ati, altitudine TR. Radix ex hoc quadrato numero
+prodit numerum corporis trunci in proportione, ut quadratum GC valet. cylindri
+conjugati corpus.
+
+Sit CA quadratum ad quadratum GA ut 7 ad4, ιι sint CT 19, AV 29,
+ιιι ut ιιι exemplo theor. VIII. 627, 660. Differentia 33. Minore ergo medietate
+arithmetica 638· ιιι 627 ducta, addito quadrato de 627, rel tota 669 in 'eandem'
+627 ιιιιιι, addito rectangulo ex ll' ιι 33, conflabitur 414183 pro corpore
+trunci· Supra vero quadrati altitudinis cylindri coniugati ad quadratum altitudi
+ιιι trunci proportio eret quae 464338 ad 448746. Si feceris ergo ut dium ad
+hunc, sic quadratum numeri trunci hic inrenti ad quartrun, proveniet 165773249994,
+radix 497153 pro trunco, curn quadratum cylindri, 'repraesentans ejus corpus,
+esset 496296. En ιιιιιιιιιι majorem cylindro plus quam parte quingentesima,
+cum in eadem proportione diametrorum, sed conjugatione proportionis duplae, in
+hoc theoremate. proposita, Guneus emet minor cylindro, minus quam purte ter·
+millesima. . = s θ
+
+Age vero etiam conjugationem tentemus proportionis dupla majoris. Sit.
+TC 19, AV 20, ιι quadratum GC ad quadratum GA, ut 9 ad 4. lirant supra
+theor. VIII. termini TC 741, AV 789, et quadratum GG 569988, ιι quadratum
+(ιιι ad quadratum ΤΒ ιι 1911712 ad 974623.
+
+.Ι)ιιιιο autem 741Ι ιιι 789, et differentia 39 ιιι partem 'tertiam 13, factisque ’
+
+additia condatur numerus trunci 587487 Denique liujus quadrato multiplicato
+in· 974623 et facto diviso sper 1911712, prodit 322399997996. Et hinc radix
+567892 est argumentum trunci conjugati, cum 569988 ιιι argumentum cylindri. “
+Truncus igitur hic minor est plus quam parte sexcentesima Minor autern erat χ
+ιιι conjugatione proportionis duplae, minus quam parte termillesima
+
+Corollarium 11.1n conjugationb duplae proportionis duarum medietatum
+arithmeticorum utraque servit calculo, minor pro tunicae corpore, major pro qua
+drato GC et corpore cylindri corpugati.
+
+ 
+
